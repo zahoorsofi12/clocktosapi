@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ClockTos.Infrastructure/1.0.0": {
+        "runtime": {
+          "ClockTos.Infrastructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ClockTos.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

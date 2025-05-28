@@ -1,0 +1,15 @@
+D:\Assignment(Task)\ClockTos\ClockTos.Application\bin\Release\net8.0\ClockTos.Application.deps.json
+D:\Assignment(Task)\ClockTos\ClockTos.Application\bin\Release\net8.0\ClockTos.Application.dll
+D:\Assignment(Task)\ClockTos\ClockTos.Application\bin\Release\net8.0\ClockTos.Application.pdb
+D:\Assignment(Task)\ClockTos\ClockTos.Application\bin\Release\net8.0\ClockTos.Domain.dll
+D:\Assignment(Task)\ClockTos\ClockTos.Application\bin\Release\net8.0\ClockTos.Domain.pdb
+D:\Assignment(Task)\ClockTos\ClockTos.Application\obj\Release\net8.0\ClockTos.Application.csproj.AssemblyReference.cache
+D:\Assignment(Task)\ClockTos\ClockTos.Application\obj\Release\net8.0\ClockTos.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Assignment(Task)\ClockTos\ClockTos.Application\obj\Release\net8.0\ClockTos.Application.AssemblyInfoInputs.cache
+D:\Assignment(Task)\ClockTos\ClockTos.Application\obj\Release\net8.0\ClockTos.Application.AssemblyInfo.cs
+D:\Assignment(Task)\ClockTos\ClockTos.Application\obj\Release\net8.0\ClockTos.Application.csproj.CoreCompileInputs.cache
+D:\Assignment(Task)\ClockTos\ClockTos.Application\obj\Release\net8.0\ClockTos.28AE09E3.Up2Date
+D:\Assignment(Task)\ClockTos\ClockTos.Application\obj\Release\net8.0\ClockTos.Application.dll
+D:\Assignment(Task)\ClockTos\ClockTos.Application\obj\Release\net8.0\refint\ClockTos.Application.dll
+D:\Assignment(Task)\ClockTos\ClockTos.Application\obj\Release\net8.0\ClockTos.Application.pdb
+D:\Assignment(Task)\ClockTos\ClockTos.Application\obj\Release\net8.0\ref\ClockTos.Application.dll

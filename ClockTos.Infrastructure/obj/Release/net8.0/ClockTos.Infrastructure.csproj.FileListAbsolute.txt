@@ -1,0 +1,11 @@
+D:\Assignment(Task)\ClockTos\ClockTos.Infrastructure\bin\Release\net8.0\ClockTos.Infrastructure.deps.json
+D:\Assignment(Task)\ClockTos\ClockTos.Infrastructure\bin\Release\net8.0\ClockTos.Infrastructure.dll
+D:\Assignment(Task)\ClockTos\ClockTos.Infrastructure\bin\Release\net8.0\ClockTos.Infrastructure.pdb
+D:\Assignment(Task)\ClockTos\ClockTos.Infrastructure\obj\Release\net8.0\ClockTos.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Assignment(Task)\ClockTos\ClockTos.Infrastructure\obj\Release\net8.0\ClockTos.Infrastructure.AssemblyInfoInputs.cache
+D:\Assignment(Task)\ClockTos\ClockTos.Infrastructure\obj\Release\net8.0\ClockTos.Infrastructure.AssemblyInfo.cs
+D:\Assignment(Task)\ClockTos\ClockTos.Infrastructure\obj\Release\net8.0\ClockTos.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Assignment(Task)\ClockTos\ClockTos.Infrastructure\obj\Release\net8.0\ClockTos.Infrastructure.dll
+D:\Assignment(Task)\ClockTos\ClockTos.Infrastructure\obj\Release\net8.0\refint\ClockTos.Infrastructure.dll
+D:\Assignment(Task)\ClockTos\ClockTos.Infrastructure\obj\Release\net8.0\ClockTos.Infrastructure.pdb
+D:\Assignment(Task)\ClockTos\ClockTos.Infrastructure\obj\Release\net8.0\ref\ClockTos.Infrastructure.dll

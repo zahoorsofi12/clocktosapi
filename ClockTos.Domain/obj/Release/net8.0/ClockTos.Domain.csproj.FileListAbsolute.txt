@@ -1,0 +1,11 @@
+D:\Assignment(Task)\ClockTos\ClockTos.Domain\bin\Release\net8.0\ClockTos.Domain.deps.json
+D:\Assignment(Task)\ClockTos\ClockTos.Domain\bin\Release\net8.0\ClockTos.Domain.dll
+D:\Assignment(Task)\ClockTos\ClockTos.Domain\bin\Release\net8.0\ClockTos.Domain.pdb
+D:\Assignment(Task)\ClockTos\ClockTos.Domain\obj\Release\net8.0\ClockTos.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Assignment(Task)\ClockTos\ClockTos.Domain\obj\Release\net8.0\ClockTos.Domain.AssemblyInfoInputs.cache
+D:\Assignment(Task)\ClockTos\ClockTos.Domain\obj\Release\net8.0\ClockTos.Domain.AssemblyInfo.cs
+D:\Assignment(Task)\ClockTos\ClockTos.Domain\obj\Release\net8.0\ClockTos.Domain.csproj.CoreCompileInputs.cache
+D:\Assignment(Task)\ClockTos\ClockTos.Domain\obj\Release\net8.0\ClockTos.Domain.dll
+D:\Assignment(Task)\ClockTos\ClockTos.Domain\obj\Release\net8.0\refint\ClockTos.Domain.dll
+D:\Assignment(Task)\ClockTos\ClockTos.Domain\obj\Release\net8.0\ClockTos.Domain.pdb
+D:\Assignment(Task)\ClockTos\ClockTos.Domain\obj\Release\net8.0\ref\ClockTos.Domain.dll

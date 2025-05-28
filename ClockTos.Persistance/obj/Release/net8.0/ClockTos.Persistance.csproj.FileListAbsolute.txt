@@ -1,0 +1,17 @@
+D:\Assignment(Task)\ClockTos\ClockTos.Persistance\bin\Release\net8.0\ClockTos.Persistance.deps.json
+D:\Assignment(Task)\ClockTos\ClockTos.Persistance\bin\Release\net8.0\ClockTos.Persistance.dll
+D:\Assignment(Task)\ClockTos\ClockTos.Persistance\bin\Release\net8.0\ClockTos.Persistance.pdb
+D:\Assignment(Task)\ClockTos\ClockTos.Persistance\bin\Release\net8.0\ClockTos.Application.dll
+D:\Assignment(Task)\ClockTos\ClockTos.Persistance\bin\Release\net8.0\ClockTos.Domain.dll
+D:\Assignment(Task)\ClockTos\ClockTos.Persistance\bin\Release\net8.0\ClockTos.Application.pdb
+D:\Assignment(Task)\ClockTos\ClockTos.Persistance\bin\Release\net8.0\ClockTos.Domain.pdb
+D:\Assignment(Task)\ClockTos\ClockTos.Persistance\obj\Release\net8.0\ClockTos.Persistance.csproj.AssemblyReference.cache
+D:\Assignment(Task)\ClockTos\ClockTos.Persistance\obj\Release\net8.0\ClockTos.Persistance.GeneratedMSBuildEditorConfig.editorconfig
+D:\Assignment(Task)\ClockTos\ClockTos.Persistance\obj\Release\net8.0\ClockTos.Persistance.AssemblyInfoInputs.cache
+D:\Assignment(Task)\ClockTos\ClockTos.Persistance\obj\Release\net8.0\ClockTos.Persistance.AssemblyInfo.cs
+D:\Assignment(Task)\ClockTos\ClockTos.Persistance\obj\Release\net8.0\ClockTos.Persistance.csproj.CoreCompileInputs.cache
+D:\Assignment(Task)\ClockTos\ClockTos.Persistance\obj\Release\net8.0\ClockTos.E41B5672.Up2Date
+D:\Assignment(Task)\ClockTos\ClockTos.Persistance\obj\Release\net8.0\ClockTos.Persistance.dll
+D:\Assignment(Task)\ClockTos\ClockTos.Persistance\obj\Release\net8.0\refint\ClockTos.Persistance.dll
+D:\Assignment(Task)\ClockTos\ClockTos.Persistance\obj\Release\net8.0\ClockTos.Persistance.pdb
+D:\Assignment(Task)\ClockTos\ClockTos.Persistance\obj\Release\net8.0\ref\ClockTos.Persistance.dll

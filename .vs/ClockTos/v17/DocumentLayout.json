@@ -1,0 +1,481 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Assignment(Task)\\ClockTos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E439F497-4CA3-4270-96D9-78F14EDDEE19}|ClockTos.Api\\ClockTos.Api.csproj|d:\\assignment(task)\\clocktos\\clocktos.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E439F497-4CA3-4270-96D9-78F14EDDEE19}|ClockTos.Api\\ClockTos.Api.csproj|solutionrelative:clocktos.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E439F497-4CA3-4270-96D9-78F14EDDEE19}|ClockTos.Api\\ClockTos.Api.csproj|d:\\assignment(task)\\clocktos\\clocktos.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E439F497-4CA3-4270-96D9-78F14EDDEE19}|ClockTos.Api\\ClockTos.Api.csproj|solutionrelative:clocktos.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E439F497-4CA3-4270-96D9-78F14EDDEE19}|ClockTos.Api\\ClockTos.Api.csproj|d:\\assignment(task)\\clocktos\\clocktos.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E439F497-4CA3-4270-96D9-78F14EDDEE19}|ClockTos.Api\\ClockTos.Api.csproj|solutionrelative:clocktos.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43E823EB-202A-4ED3-9E0C-BB2CE4950C15}|ClockTos.Domain\\ClockTos.Domain.csproj|d:\\assignment(task)\\clocktos\\clocktos.domain\\entities\\designations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43E823EB-202A-4ED3-9E0C-BB2CE4950C15}|ClockTos.Domain\\ClockTos.Domain.csproj|solutionrelative:clocktos.domain\\entities\\designations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C11FB2E7-D65B-41FF-BAD9-D9C33524BEF3}|ClockTos.Application\\ClockTos.Application.csproj|d:\\assignment(task)\\clocktos\\clocktos.application\\services\\designationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C11FB2E7-D65B-41FF-BAD9-D9C33524BEF3}|ClockTos.Application\\ClockTos.Application.csproj|solutionrelative:clocktos.application\\services\\designationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C11FB2E7-D65B-41FF-BAD9-D9C33524BEF3}|ClockTos.Application\\ClockTos.Application.csproj|d:\\assignment(task)\\clocktos\\clocktos.application\\abstractions\\iservice\\idesignationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C11FB2E7-D65B-41FF-BAD9-D9C33524BEF3}|ClockTos.Application\\ClockTos.Application.csproj|solutionrelative:clocktos.application\\abstractions\\iservice\\idesignationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFB41B4A-45C1-466F-96F3-9E2D0329B1A3}|ClockTos.Persistance\\ClockTos.Persistance.csproj|d:\\assignment(task)\\clocktos\\clocktos.persistance\\data\\clockdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFB41B4A-45C1-466F-96F3-9E2D0329B1A3}|ClockTos.Persistance\\ClockTos.Persistance.csproj|solutionrelative:clocktos.persistance\\data\\clockdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C11FB2E7-D65B-41FF-BAD9-D9C33524BEF3}|ClockTos.Application\\ClockTos.Application.csproj|d:\\assignment(task)\\clocktos\\clocktos.application\\mappingprofiler\\mappingprofiler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C11FB2E7-D65B-41FF-BAD9-D9C33524BEF3}|ClockTos.Application\\ClockTos.Application.csproj|solutionrelative:clocktos.application\\mappingprofiler\\mappingprofiler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C11FB2E7-D65B-41FF-BAD9-D9C33524BEF3}|ClockTos.Application\\ClockTos.Application.csproj|d:\\assignment(task)\\clocktos\\clocktos.application\\rrmodels\\designationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C11FB2E7-D65B-41FF-BAD9-D9C33524BEF3}|ClockTos.Application\\ClockTos.Application.csproj|solutionrelative:clocktos.application\\rrmodels\\designationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C11FB2E7-D65B-41FF-BAD9-D9C33524BEF3}|ClockTos.Application\\ClockTos.Application.csproj|d:\\assignment(task)\\clocktos\\clocktos.application\\abstractions\\irepositories\\idesignationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C11FB2E7-D65B-41FF-BAD9-D9C33524BEF3}|ClockTos.Application\\ClockTos.Application.csproj|solutionrelative:clocktos.application\\abstractions\\irepositories\\idesignationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E439F497-4CA3-4270-96D9-78F14EDDEE19}|ClockTos.Api\\ClockTos.Api.csproj|d:\\assignment(task)\\clocktos\\clocktos.api\\dicontainer\\assemblyreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E439F497-4CA3-4270-96D9-78F14EDDEE19}|ClockTos.Api\\ClockTos.Api.csproj|solutionrelative:clocktos.api\\dicontainer\\assemblyreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E439F497-4CA3-4270-96D9-78F14EDDEE19}|ClockTos.Api\\ClockTos.Api.csproj|d:\\assignment(task)\\clocktos\\clocktos.api\\controllers\\designationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E439F497-4CA3-4270-96D9-78F14EDDEE19}|ClockTos.Api\\ClockTos.Api.csproj|solutionrelative:clocktos.api\\controllers\\designationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFB41B4A-45C1-466F-96F3-9E2D0329B1A3}|ClockTos.Persistance\\ClockTos.Persistance.csproj|d:\\assignment(task)\\clocktos\\clocktos.persistance\\repositories\\designationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFB41B4A-45C1-466F-96F3-9E2D0329B1A3}|ClockTos.Persistance\\ClockTos.Persistance.csproj|solutionrelative:clocktos.persistance\\repositories\\designationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C11FB2E7-D65B-41FF-BAD9-D9C33524BEF3}|ClockTos.Application\\ClockTos.Application.csproj|d:\\assignment(task)\\clocktos\\clocktos.application\\rrmodels\\collegemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C11FB2E7-D65B-41FF-BAD9-D9C33524BEF3}|ClockTos.Application\\ClockTos.Application.csproj|solutionrelative:clocktos.application\\rrmodels\\collegemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFB41B4A-45C1-466F-96F3-9E2D0329B1A3}|ClockTos.Persistance\\ClockTos.Persistance.csproj|d:\\assignment(task)\\clocktos\\clocktos.persistance\\dicontainer\\assemblyreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFB41B4A-45C1-466F-96F3-9E2D0329B1A3}|ClockTos.Persistance\\ClockTos.Persistance.csproj|solutionrelative:clocktos.persistance\\dicontainer\\assemblyreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C11FB2E7-D65B-41FF-BAD9-D9C33524BEF3}|ClockTos.Application\\ClockTos.Application.csproj|d:\\assignment(task)\\clocktos\\clocktos.application\\dicontainer\\assemblyreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C11FB2E7-D65B-41FF-BAD9-D9C33524BEF3}|ClockTos.Application\\ClockTos.Application.csproj|solutionrelative:clocktos.application\\dicontainer\\assemblyreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C11FB2E7-D65B-41FF-BAD9-D9C33524BEF3}|ClockTos.Application\\ClockTos.Application.csproj|d:\\assignment(task)\\clocktos\\clocktos.application\\abstractions\\iservice\\icollegeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C11FB2E7-D65B-41FF-BAD9-D9C33524BEF3}|ClockTos.Application\\ClockTos.Application.csproj|solutionrelative:clocktos.application\\abstractions\\iservice\\icollegeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFB41B4A-45C1-466F-96F3-9E2D0329B1A3}|ClockTos.Persistance\\ClockTos.Persistance.csproj|d:\\assignment(task)\\clocktos\\clocktos.persistance\\repositories\\collegerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFB41B4A-45C1-466F-96F3-9E2D0329B1A3}|ClockTos.Persistance\\ClockTos.Persistance.csproj|solutionrelative:clocktos.persistance\\repositories\\collegerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C11FB2E7-D65B-41FF-BAD9-D9C33524BEF3}|ClockTos.Application\\ClockTos.Application.csproj|d:\\assignment(task)\\clocktos\\clocktos.application\\services\\collegeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C11FB2E7-D65B-41FF-BAD9-D9C33524BEF3}|ClockTos.Application\\ClockTos.Application.csproj|solutionrelative:clocktos.application\\services\\collegeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43E823EB-202A-4ED3-9E0C-BB2CE4950C15}|ClockTos.Domain\\ClockTos.Domain.csproj|d:\\assignment(task)\\clocktos\\clocktos.domain\\entities\\colleges.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43E823EB-202A-4ED3-9E0C-BB2CE4950C15}|ClockTos.Domain\\ClockTos.Domain.csproj|solutionrelative:clocktos.domain\\entities\\colleges.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E439F497-4CA3-4270-96D9-78F14EDDEE19}|ClockTos.Api\\ClockTos.Api.csproj|d:\\assignment(task)\\clocktos\\clocktos.api\\controllers\\collegecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E439F497-4CA3-4270-96D9-78F14EDDEE19}|ClockTos.Api\\ClockTos.Api.csproj|solutionrelative:clocktos.api\\controllers\\collegecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C11FB2E7-D65B-41FF-BAD9-D9C33524BEF3}|ClockTos.Application\\ClockTos.Application.csproj|d:\\assignment(task)\\clocktos\\clocktos.application\\abstractions\\irepositories\\icollegerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C11FB2E7-D65B-41FF-BAD9-D9C33524BEF3}|ClockTos.Application\\ClockTos.Application.csproj|solutionrelative:clocktos.application\\abstractions\\irepositories\\icollegerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFB41B4A-45C1-466F-96F3-9E2D0329B1A3}|ClockTos.Persistance\\ClockTos.Persistance.csproj|d:\\assignment(task)\\clocktos\\clocktos.persistance\\repositories\\baserepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFB41B4A-45C1-466F-96F3-9E2D0329B1A3}|ClockTos.Persistance\\ClockTos.Persistance.csproj|solutionrelative:clocktos.persistance\\repositories\\baserepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E439F497-4CA3-4270-96D9-78F14EDDEE19}|ClockTos.Api\\ClockTos.Api.csproj|d:\\assignment(task)\\clocktos\\clocktos.api\\utils\\resultextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E439F497-4CA3-4270-96D9-78F14EDDEE19}|ClockTos.Api\\ClockTos.Api.csproj|solutionrelative:clocktos.api\\utils\\resultextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E439F497-4CA3-4270-96D9-78F14EDDEE19}|ClockTos.Api\\ClockTos.Api.csproj|d:\\assignment(task)\\clocktos\\clocktos.api\\controllers\\common\\apicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E439F497-4CA3-4270-96D9-78F14EDDEE19}|ClockTos.Api\\ClockTos.Api.csproj|solutionrelative:clocktos.api\\controllers\\common\\apicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C11FB2E7-D65B-41FF-BAD9-D9C33524BEF3}|ClockTos.Application\\ClockTos.Application.csproj|d:\\assignment(task)\\clocktos\\clocktos.application\\shared\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C11FB2E7-D65B-41FF-BAD9-D9C33524BEF3}|ClockTos.Application\\ClockTos.Application.csproj|solutionrelative:clocktos.application\\shared\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C11FB2E7-D65B-41FF-BAD9-D9C33524BEF3}|ClockTos.Application\\ClockTos.Application.csproj|d:\\assignment(task)\\clocktos\\clocktos.application\\shared\\apistatuscodes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C11FB2E7-D65B-41FF-BAD9-D9C33524BEF3}|ClockTos.Application\\ClockTos.Application.csproj|solutionrelative:clocktos.application\\shared\\apistatuscodes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C11FB2E7-D65B-41FF-BAD9-D9C33524BEF3}|ClockTos.Application\\ClockTos.Application.csproj|d:\\assignment(task)\\clocktos\\clocktos.application\\abstractions\\irepositories\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C11FB2E7-D65B-41FF-BAD9-D9C33524BEF3}|ClockTos.Application\\ClockTos.Application.csproj|solutionrelative:clocktos.application\\abstractions\\irepositories\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Assignment(Task)\\ClockTos\\ClockTos.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "ClockTos.Api\\appsettings.json",
+              "ToolTip": "D:\\Assignment(Task)\\ClockTos\\ClockTos.Api\\appsettings.json",
+              "RelativeToolTip": "ClockTos.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-27T14:08:58.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Assignment(Task)\\ClockTos\\ClockTos.Api\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "ClockTos.Api\\appsettings.Development.json",
+              "ToolTip": "D:\\Assignment(Task)\\ClockTos\\ClockTos.Api\\appsettings.Development.json",
+              "RelativeToolTip": "ClockTos.Api\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-27T14:08:55.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Designations.cs",
+              "DocumentMoniker": "D:\\Assignment(Task)\\ClockTos\\ClockTos.Domain\\Entities\\Designations.cs",
+              "RelativeDocumentMoniker": "ClockTos.Domain\\Entities\\Designations.cs",
+              "ToolTip": "D:\\Assignment(Task)\\ClockTos\\ClockTos.Domain\\Entities\\Designations.cs",
+              "RelativeToolTip": "ClockTos.Domain\\Entities\\Designations.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAYwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T06:46:09.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Assignment(Task)\\ClockTos\\ClockTos.Api\\Program.cs",
+              "RelativeDocumentMoniker": "ClockTos.Api\\Program.cs",
+              "ToolTip": "D:\\Assignment(Task)\\ClockTos\\ClockTos.Api\\Program.cs",
+              "RelativeToolTip": "ClockTos.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T09:36:58.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MappingProfiler.cs",
+              "DocumentMoniker": "D:\\Assignment(Task)\\ClockTos\\ClockTos.Application\\MappingProfiler\\MappingProfiler.cs",
+              "RelativeDocumentMoniker": "ClockTos.Application\\MappingProfiler\\MappingProfiler.cs",
+              "ToolTip": "D:\\Assignment(Task)\\ClockTos\\ClockTos.Application\\MappingProfiler\\MappingProfiler.cs",
+              "RelativeToolTip": "ClockTos.Application\\MappingProfiler\\MappingProfiler.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwBsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T11:53:40.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ClockDbContext.cs",
+              "DocumentMoniker": "D:\\Assignment(Task)\\ClockTos\\ClockTos.Persistance\\Data\\ClockDbContext.cs",
+              "RelativeDocumentMoniker": "ClockTos.Persistance\\Data\\ClockDbContext.cs",
+              "ToolTip": "D:\\Assignment(Task)\\ClockTos\\ClockTos.Persistance\\Data\\ClockDbContext.cs",
+              "RelativeToolTip": "ClockTos.Persistance\\Data\\ClockDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T09:26:32.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IDesignationService.cs",
+              "DocumentMoniker": "D:\\Assignment(Task)\\ClockTos\\ClockTos.Application\\Abstractions\\IService\\IDesignationService.cs",
+              "RelativeDocumentMoniker": "ClockTos.Application\\Abstractions\\IService\\IDesignationService.cs",
+              "ToolTip": "D:\\Assignment(Task)\\ClockTos\\ClockTos.Application\\Abstractions\\IService\\IDesignationService.cs",
+              "RelativeToolTip": "ClockTos.Application\\Abstractions\\IService\\IDesignationService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAMwA4AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T09:52:26.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DesignationModel.cs",
+              "DocumentMoniker": "D:\\Assignment(Task)\\ClockTos\\ClockTos.Application\\RRModels\\DesignationModel.cs",
+              "RelativeDocumentMoniker": "ClockTos.Application\\RRModels\\DesignationModel.cs",
+              "ToolTip": "D:\\Assignment(Task)\\ClockTos\\ClockTos.Application\\RRModels\\DesignationModel.cs",
+              "RelativeToolTip": "ClockTos.Application\\RRModels\\DesignationModel.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA3wBAAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T03:44:11.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DesignationService.cs",
+              "DocumentMoniker": "D:\\Assignment(Task)\\ClockTos\\ClockTos.Application\\Services\\DesignationService.cs",
+              "RelativeDocumentMoniker": "ClockTos.Application\\Services\\DesignationService.cs",
+              "ToolTip": "D:\\Assignment(Task)\\ClockTos\\ClockTos.Application\\Services\\DesignationService.cs",
+              "RelativeToolTip": "ClockTos.Application\\Services\\DesignationService.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwBIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T09:54:37.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IDesignationRepository.cs",
+              "DocumentMoniker": "D:\\Assignment(Task)\\ClockTos\\ClockTos.Application\\Abstractions\\IRepositories\\IDesignationRepository.cs",
+              "RelativeDocumentMoniker": "ClockTos.Application\\Abstractions\\IRepositories\\IDesignationRepository.cs",
+              "ToolTip": "D:\\Assignment(Task)\\ClockTos\\ClockTos.Application\\Abstractions\\IRepositories\\IDesignationRepository.cs",
+              "RelativeToolTip": "ClockTos.Application\\Abstractions\\IRepositories\\IDesignationRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T09:40:22.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AssemblyReference.cs",
+              "DocumentMoniker": "D:\\Assignment(Task)\\ClockTos\\ClockTos.Api\\DIContainer\\AssemblyReference.cs",
+              "RelativeDocumentMoniker": "ClockTos.Api\\DIContainer\\AssemblyReference.cs",
+              "ToolTip": "D:\\Assignment(Task)\\ClockTos\\ClockTos.Api\\DIContainer\\AssemblyReference.cs",
+              "RelativeToolTip": "ClockTos.Api\\DIContainer\\AssemblyReference.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T09:13:47.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DesignationController.cs",
+              "DocumentMoniker": "D:\\Assignment(Task)\\ClockTos\\ClockTos.Api\\Controllers\\DesignationController.cs",
+              "RelativeDocumentMoniker": "ClockTos.Api\\Controllers\\DesignationController.cs",
+              "ToolTip": "D:\\Assignment(Task)\\ClockTos\\ClockTos.Api\\Controllers\\DesignationController.cs",
+              "RelativeToolTip": "ClockTos.Api\\Controllers\\DesignationController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA7wBkAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T10:06:59.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DesignationRepository.cs",
+              "DocumentMoniker": "D:\\Assignment(Task)\\ClockTos\\ClockTos.Persistance\\Repositories\\DesignationRepository.cs",
+              "RelativeDocumentMoniker": "ClockTos.Persistance\\Repositories\\DesignationRepository.cs",
+              "ToolTip": "D:\\Assignment(Task)\\ClockTos\\ClockTos.Persistance\\Repositories\\DesignationRepository.cs",
+              "RelativeToolTip": "ClockTos.Persistance\\Repositories\\DesignationRepository.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAmwBoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T03:09:09.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CollegeModel.cs",
+              "DocumentMoniker": "D:\\Assignment(Task)\\ClockTos\\ClockTos.Application\\RRModels\\CollegeModel.cs",
+              "RelativeDocumentMoniker": "ClockTos.Application\\RRModels\\CollegeModel.cs",
+              "ToolTip": "D:\\Assignment(Task)\\ClockTos\\ClockTos.Application\\RRModels\\CollegeModel.cs",
+              "RelativeToolTip": "ClockTos.Application\\RRModels\\CollegeModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T03:43:55.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AssemblyReference.cs",
+              "DocumentMoniker": "D:\\Assignment(Task)\\ClockTos\\ClockTos.Persistance\\DIContainer\\AssemblyReference.cs",
+              "RelativeDocumentMoniker": "ClockTos.Persistance\\DIContainer\\AssemblyReference.cs",
+              "ToolTip": "D:\\Assignment(Task)\\ClockTos\\ClockTos.Persistance\\DIContainer\\AssemblyReference.cs",
+              "RelativeToolTip": "ClockTos.Persistance\\DIContainer\\AssemblyReference.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAABgAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T09:14:40.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AssemblyReference.cs",
+              "DocumentMoniker": "D:\\Assignment(Task)\\ClockTos\\ClockTos.Application\\DIContainer\\AssemblyReference.cs",
+              "RelativeDocumentMoniker": "ClockTos.Application\\DIContainer\\AssemblyReference.cs",
+              "ToolTip": "D:\\Assignment(Task)\\ClockTos\\ClockTos.Application\\DIContainer\\AssemblyReference.cs",
+              "RelativeToolTip": "ClockTos.Application\\DIContainer\\AssemblyReference.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAxwBEAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T09:11:50.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ICollegeService.cs",
+              "DocumentMoniker": "D:\\Assignment(Task)\\ClockTos\\ClockTos.Application\\Abstractions\\IService\\ICollegeService.cs",
+              "RelativeDocumentMoniker": "ClockTos.Application\\Abstractions\\IService\\ICollegeService.cs",
+              "ToolTip": "D:\\Assignment(Task)\\ClockTos\\ClockTos.Application\\Abstractions\\IService\\ICollegeService.cs",
+              "RelativeToolTip": "ClockTos.Application\\Abstractions\\IService\\ICollegeService.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAWwAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T03:42:11.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CollegeRepository.cs",
+              "DocumentMoniker": "D:\\Assignment(Task)\\ClockTos\\ClockTos.Persistance\\Repositories\\CollegeRepository.cs",
+              "RelativeDocumentMoniker": "ClockTos.Persistance\\Repositories\\CollegeRepository.cs",
+              "ToolTip": "D:\\Assignment(Task)\\ClockTos\\ClockTos.Persistance\\Repositories\\CollegeRepository.cs",
+              "RelativeToolTip": "ClockTos.Persistance\\Repositories\\CollegeRepository.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBkAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T09:46:41.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CollegeService.cs",
+              "DocumentMoniker": "D:\\Assignment(Task)\\ClockTos\\ClockTos.Application\\Services\\CollegeService.cs",
+              "RelativeDocumentMoniker": "ClockTos.Application\\Services\\CollegeService.cs",
+              "ToolTip": "D:\\Assignment(Task)\\ClockTos\\ClockTos.Application\\Services\\CollegeService.cs",
+              "RelativeToolTip": "ClockTos.Application\\Services\\CollegeService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAowBwAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T05:26:39.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Colleges.cs",
+              "DocumentMoniker": "D:\\Assignment(Task)\\ClockTos\\ClockTos.Domain\\Entities\\Colleges.cs",
+              "RelativeDocumentMoniker": "ClockTos.Domain\\Entities\\Colleges.cs",
+              "ToolTip": "D:\\Assignment(Task)\\ClockTos\\ClockTos.Domain\\Entities\\Colleges.cs",
+              "RelativeToolTip": "ClockTos.Domain\\Entities\\Colleges.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T03:45:19.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CollegeController.cs",
+              "DocumentMoniker": "D:\\Assignment(Task)\\ClockTos\\ClockTos.Api\\Controllers\\CollegeController.cs",
+              "RelativeDocumentMoniker": "ClockTos.Api\\Controllers\\CollegeController.cs",
+              "ToolTip": "D:\\Assignment(Task)\\ClockTos\\ClockTos.Api\\Controllers\\CollegeController.cs",
+              "RelativeToolTip": "ClockTos.Api\\Controllers\\CollegeController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAkwBoAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T05:49:07.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ICollegeRepository.cs",
+              "DocumentMoniker": "D:\\Assignment(Task)\\ClockTos\\ClockTos.Application\\Abstractions\\IRepositories\\ICollegeRepository.cs",
+              "RelativeDocumentMoniker": "ClockTos.Application\\Abstractions\\IRepositories\\ICollegeRepository.cs",
+              "ToolTip": "D:\\Assignment(Task)\\ClockTos\\ClockTos.Application\\Abstractions\\IRepositories\\ICollegeRepository.cs",
+              "RelativeToolTip": "ClockTos.Application\\Abstractions\\IRepositories\\ICollegeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T09:43:17.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "BaseRepositories.cs",
+              "DocumentMoniker": "D:\\Assignment(Task)\\ClockTos\\ClockTos.Persistance\\Repositories\\BaseRepositories.cs",
+              "RelativeDocumentMoniker": "ClockTos.Persistance\\Repositories\\BaseRepositories.cs",
+              "ToolTip": "D:\\Assignment(Task)\\ClockTos\\ClockTos.Persistance\\Repositories\\BaseRepositories.cs",
+              "RelativeToolTip": "ClockTos.Persistance\\Repositories\\BaseRepositories.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T09:24:22.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ResultExtension.cs",
+              "DocumentMoniker": "D:\\Assignment(Task)\\ClockTos\\ClockTos.Api\\Utils\\ResultExtension.cs",
+              "RelativeDocumentMoniker": "ClockTos.Api\\Utils\\ResultExtension.cs",
+              "ToolTip": "D:\\Assignment(Task)\\ClockTos\\ClockTos.Api\\Utils\\ResultExtension.cs",
+              "RelativeToolTip": "ClockTos.Api\\Utils\\ResultExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T03:14:02.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ApiController.cs",
+              "DocumentMoniker": "D:\\Assignment(Task)\\ClockTos\\ClockTos.Api\\Controllers\\Common\\ApiController.cs",
+              "RelativeDocumentMoniker": "ClockTos.Api\\Controllers\\Common\\ApiController.cs",
+              "ToolTip": "D:\\Assignment(Task)\\ClockTos\\ClockTos.Api\\Controllers\\Common\\ApiController.cs",
+              "RelativeToolTip": "ClockTos.Api\\Controllers\\Common\\ApiController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T03:14:55.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "D:\\Assignment(Task)\\ClockTos\\ClockTos.Application\\Shared\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "ClockTos.Application\\Shared\\ApiResponse.cs",
+              "ToolTip": "D:\\Assignment(Task)\\ClockTos\\ClockTos.Application\\Shared\\ApiResponse.cs",
+              "RelativeToolTip": "ClockTos.Application\\Shared\\ApiResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T03:11:44.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ApiStatusCodes.cs",
+              "DocumentMoniker": "D:\\Assignment(Task)\\ClockTos\\ClockTos.Application\\Shared\\ApiStatusCodes.cs",
+              "RelativeDocumentMoniker": "ClockTos.Application\\Shared\\ApiStatusCodes.cs",
+              "ToolTip": "D:\\Assignment(Task)\\ClockTos\\ClockTos.Application\\Shared\\ApiStatusCodes.cs",
+              "RelativeToolTip": "ClockTos.Application\\Shared\\ApiStatusCodes.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAuwEcAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T03:11:10.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IBaseRepository.cs",
+              "DocumentMoniker": "D:\\Assignment(Task)\\ClockTos\\ClockTos.Application\\Abstractions\\IRepositories\\IBaseRepository.cs",
+              "RelativeDocumentMoniker": "ClockTos.Application\\Abstractions\\IRepositories\\IBaseRepository.cs",
+              "ToolTip": "D:\\Assignment(Task)\\ClockTos\\ClockTos.Application\\Abstractions\\IRepositories\\IBaseRepository.cs",
+              "RelativeToolTip": "ClockTos.Application\\Abstractions\\IRepositories\\IBaseRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T09:20:32.837Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

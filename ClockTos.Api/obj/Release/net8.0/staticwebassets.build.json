@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "kI7HeU4gk3xP7Q2WiFuphjuCMVj/PFIqTbkg3O00JDI=",
+  "Source": "ClockTos.Api",
+  "BasePath": "_content/ClockTos.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
